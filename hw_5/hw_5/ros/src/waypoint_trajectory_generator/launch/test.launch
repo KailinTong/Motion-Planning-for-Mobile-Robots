@@ -1,0 +1,24 @@
+<launch>
+
+  <node pkg="waypoint_trajectory_generator" type="trajectory_generator_node" name="trajectory_generator_node" output="screen" required = "true">
+
+      <remap from="~waypoints" to="/waypoint_generator/waypoints"/>
+      <remap from="~odom"      to="/msckf_vio/odometry"/>
+      <remap from="~joy"      to="/djiros/rc"/>
+      
+      <param name="planning/vel"       value="4.0"  />
+      <param name="planning/acc"       value="3.0"  />
+      <param name="planning/dev_order" value="4"    />
+      <param name="planning/min_order" value="3"    />
+      <param name="vis/vis_traj_width" value="0.15" />
+
+  </node>
+
+  <node pkg="waypoint_generator" name="waypoint_generator" type="waypoint_generator" output="screen">        
+      <remap from="~goal" to="/goal"/>
+      <param name="waypoint_type" value="manual"/>
+  </node>
+
+  <node name="rvizvisualisation" pkg="rviz" type="rviz" output="log" args="-d $(find waypoint_trajectory_generator)/launch/rviz_config/test_traj.rviz" />
+
+</launch>

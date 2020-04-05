@@ -1,0 +1,22 @@
+[ INFO] [1574774809.881769610]: [node] receive the planning target
+Debug:   RRTstar: Planner range detected to be 2.856571
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 45
+Info:    RRTstar: Found an initial solution with a cost of 5.18 in 27 iterations (21 vertices in the graph)
+Info:    RRTstar: Created 6464 new states. Checked 3161426 rewire options. 1 goal states in tree. Final solution cost 4.631
+
+[ INFO] [1574774938.076217105]: [node] receive the planning target
+Debug:   RRTstar: Planner range detected to be 2.856571
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 45
+Info:    RRTstar: Found an initial solution with a cost of 5.77 in 80 iterations (49 vertices in the graph)
+Info:    RRTstar: Created 5803 new states. Checked 2793363 rewire options. 1 goal states in tree. Final solution cost 5.161
+
+
+[ INFO] [1574775032.517872266]: [node] receive the planning target
+Debug:   RRTstar: Planner range detected to be 2.856571
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 45
+Info:    RRTstar: Found an initial solution with a cost of 5.88 in 198 iterations (119 vertices in the graph)
+Info:    RRTstar: Created 6278 new states. Checked 3057397 rewire options. 1 goal states in tree. Final solution cost 4.979
+
