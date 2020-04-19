@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kailin/ros/motion_planning_for_mobile_robots_ROS/hw_3/catkin_ws/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_4/catkin_ws/src/cmake-build-debug/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_4/catkin_ws/src/grid_path_searcher/include
+Libs: -L/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_4/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_4/catkin_ws/src/cmake-build-debug/devel
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_4/catkin_ws/src/cmake-build-debug/devel/lib 
+Requires: 

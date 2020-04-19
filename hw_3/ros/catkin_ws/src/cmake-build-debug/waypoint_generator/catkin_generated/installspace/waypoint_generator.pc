@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: waypoint_generator
+Description: Description of waypoint_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

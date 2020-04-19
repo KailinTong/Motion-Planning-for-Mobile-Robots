@@ -1,0 +1,8 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="rviz_plugins"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_KEYWORDS
+-o
+/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_3/catkin_ws/src/cmake-build-debug/rviz_plugins/src/moc_goal_tool.cpp
+/home/tongadm/ROS_Projects/motion_planning_for_mobile_robots/hw_3/catkin_ws/src/rviz_plugins/src/goal_tool.h

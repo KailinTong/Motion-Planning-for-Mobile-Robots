@@ -1,9 +1,0 @@
-第三章作业, 包括:
-
-MATALB pdf 和 RRT.m代码
-
-ROS pdf 和 demo_node.cpp.
-
-
-
-注意编译要修改 CMakeLists。

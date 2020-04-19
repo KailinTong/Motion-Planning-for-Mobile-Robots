@@ -1,0 +1,8 @@
+prefix=/home/kailin/ros/motion_planning_for_mobile_robots_ROS/hw_5/ros/devel
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
