@@ -1,0 +1,8 @@
+prefix=/home/kailin/ros/motion_planning_for_mobile_robots_ROS/hw_1/catkin_ws/src/cmake-build-debug/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/kailin/ros/motion_planning_for_mobile_robots_ROS/hw_1/catkin_ws/src/grid_path_searcher/include
+Libs: -L${prefix}/lib 
+Requires: 
