@@ -1,4 +1,4 @@
-# Motion-Planning-for-MP-for-Mobile-Robotse-Robotics
+# Motion-Planning-for-for-Mobile-Robotse-Robotics
 
 **Project 2	MATLAB	C++**
 
